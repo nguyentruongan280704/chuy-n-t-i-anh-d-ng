@@ -1,0 +1,101 @@
+
+.container{
+    width: 780px !important;
+    height: 750px;
+    background-color: rgb(130, 185, 27);
+    background-image: url("./annn.jpg");
+   
+}
+.ner1{
+    width: 300px;
+    height: 200px;
+  top: 100px;
+  left: 100px;
+  position: relative;
+}
+.ner2{
+    width: 300px;
+    height: 200px;
+    top: 100px;
+    left: 100px;
+    position: relative;
+}
+.ner3{
+    width: 300px;
+    height: 200px;
+    top: 100px;
+    left: 100px;
+    position: relative;
+}
+.ner4{
+    width: 300px;
+    height: 200px;
+    top: 100px;
+    left: 100px;
+    position: relative;
+   
+}
+.a{
+    margin-top: 100px;
+    margin-left: 30px;
+    border-radius: 42px;
+}
+.b{
+    margin-top: -203px;
+    margin-left: 416px;
+    border-radius: 42px;
+}
+.c{
+    margin-top: 100px;
+    margin-left: 28px;
+    border-radius: 42px;
+}
+.d{
+    margin-top: -200px;
+    margin-left: 415px;
+    border-radius: 42px;
+}
+.chu{
+    top: 50px;
+    left: 153px;
+    position: relative;
+    font-size: 30px;
+    color: white
+}
+.unti{
+    width: 200px;
+    height: 200px;
+    top: -89px;
+    left: -35px;
+    position: relative;
+    font-size: 100px;
+    color: white;
+    border: none;
+    background:
+    linear-gradient(red, transparent),
+    linear-gradient(to top left, rgb(52, 155, 69), transparent),
+    linear-gradient(to top right, rgb(18, 17, 94), transparent);
+background-blend-mode:screen;
+box-shadow: 2px 0px 31px 0px rgba(0,0,0,0.75);
+border-radius: 30px;
+
+}
+.nhan{
+    width: 129px;
+    height: 47px;
+    top: 18px;
+    left: 583px;
+    position: relative;
+    font-size: 30px;
+    border-radius: 20px;
+    background-color: tomato;
+    color: white;
+}
+.them{
+    position: relative;
+    top: -137px;
+    left: 36px;
+    font-size: 10px;
+    color: white;
+}
+
